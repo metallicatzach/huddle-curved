@@ -29,7 +29,7 @@ The designs were created to the following widths:
 
 ### Body
 
-- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Family: [Open Sans](c)
 - Weights: 400, 600, 700
 
 ## Icons
